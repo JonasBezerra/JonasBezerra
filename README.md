@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Jonas Bezerra da Silva
-<a href="https://instagram.com/jonasbezerradasilva99" width="5px">![icons8-instagram-24 (2)](https://user-images.githubusercontent.com/67350258/90354630-d6c00700-e017-11ea-9e0a-e8fbae49a69f.png)</a> 
-<a href="mailto:jonas.official2019@gmail.com">![icons8-correio-24](https://user-images.githubusercontent.com/67350258/90354771-3d452500-e018-11ea-946c-c54b5069ab06.png)</a>
+<a href="https://instagram.com/jonasbezerradasilva99">![icons8-correio-24 (1)](https://user-images.githubusercontent.com/67350258/90355032-19ceaa00-e019-11ea-9db7-eb73a4aca7d7.png)
+</a> 
+<a href="mailto:jonas.official2019@gmail.com">![icons8-instagram-22 (1)](https://user-images.githubusercontent.com/67350258/90355291-f0fae480-e019-11ea-8717-6b2ffd5e9086.png)
+</a>
 
