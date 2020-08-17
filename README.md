@@ -24,17 +24,27 @@ Here are some ideas to get you started:
   <a href="https://github.com/JonasBezerra/JonasBezerra"><img src="https://img.shields.io/static/v1?label=JS&message=INTERACAO&color=rgb(247,223,30)&style=solid&logo=JavaScript" width="105px"></a>
   <a href="https://github.com/JonasBezerra/JonasBezerra"><img src="https://img.shields.io/static/v1?label=NODE&message=SERVIDOR&color=rgb(56,145,56)&style=solid&logo=NODE.JS" width="118px"></a></p>
   
-  
+
+<br>
+<br>
+
+
+<h2 align="center">Sobre Mim</h2>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 <p align="center"> Sou Formado como técnico de informática pelo Instituto Federal do Amazonas e apaixonado por tecnologia.
   Atualmente estou me especializando em Programação Web com <b>JS, CSS e HTML</b> no bootcamp LaunchBases da rocketseat 🚀</p>
 
 <p align="center">Comecei a programar pelo mundo <b>Java</b> Desktop, na qual desenvolvi alguns programas com a lingugem no Back-end e Front-end. Até descobrir o maravilhoso mundo da <b>programação web</b> e suas infinitas Oportunidades</p>
+
+<br>
+<br>
+<br>
+<br>
+
 <h2 align="center"> <a href="https://instagram.com/jonasbezerradasilva99"><img src="https://img.shields.io/static/v1?label=instagram&message=follow-me&color=rgb(228,64,95)&style=solid&logo=Instagram" width="160px"></img></a></img></a> <a href="mailto:jonas.official2019@gmail.com"><img src="https://img.shields.io/static/v1?label=email&message=jonas.official2019@gmail.com&color=rgb(58,191,230)&style=solid&logo=Minutemailer" width="250px"></h2>
+<br>
+<br>
 
