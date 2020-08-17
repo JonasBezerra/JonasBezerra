@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **JonasBezerra/JonasBezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Jonas Bezerra da Silva
-<a href="https://instagram.com/jonasbezerradasilva99"><img src="https://img.shields.io/static/v1?label=instagram&message=follow-me&color=rgb(228,64,95)&style=solid&logo=Instagram" width="160px"></img></a>
+<h1 align="center"> Jonas Bezerra da Silva</h1>
+<h2 align="center"> <a href="https://instagram.com/jonasbezerradasilva99"><img src="https://img.shields.io/static/v1?label=instagram&message=follow-me&color=rgb(228,64,95)&style=solid&logo=Instagram" width="160px"></img></a></h2>
