@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Jonas Bezerra da Silva
-<a href="https://instagram.com/jonasbezerradasilva99">![icons8-correio-24 (1)](https://user-images.githubusercontent.com/67350258/90355032-19ceaa00-e019-11ea-9db7-eb73a4aca7d7.png)
-</a> 
-<a href="mailto:jonas.official2019@gmail.com">![icons8-instagram-22 (1)](https://user-images.githubusercontent.com/67350258/90355291-f0fae480-e019-11ea-8717-6b2ffd5e9086.png)
-</a>
-
+<a href="https://instagram.com/jonasbezerradasilva99"><img src="https://img.shields.io/static/v1?label=instagram&message=follow-me&color=rgb(228,64,95)&style=solid&logo=Instagram" width="160px"></img></a>
