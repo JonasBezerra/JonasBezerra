@@ -42,9 +42,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<br>
 
-<h2 align="center"> <a href="https://instagram.com/jonasbezerradasilva99"><img src="https://img.shields.io/static/v1?label=instagram&message=follow-me&color=rgb(228,64,95)&style=solid&logo=Instagram" width="160px"></img></a></img></a> <a href="mailto:jonas.official2019@gmail.com"><img src="https://img.shields.io/static/v1?label=email&message=jonas.official2019@gmail.com&color=rgb(58,191,230)&style=solid&logo=Minutemailer" width="250px"></h2>
+<h2 align="center">Como Chegar até Mim<br> <br>
+  <a href="https://instagram.com/jonasbezerradasilva99"><img src="https://img.shields.io/static/v1?label=instagram&message=follow-me&color=rgb(228,64,95)&style=solid&logo=Instagram" width="160px"></img></a>
+  </img></a> <a href="mailto:jonas.official2019@gmail.com"><img src="https://img.shields.io/static/v1?label=email&message=jonas.official2019@gmail.com&color=rgb(58,191,230)&style=solid&logo=Minutemailer" width="250px"></h2>
+  
 <br>
 <br>
 
