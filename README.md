@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h2 align="center">Sobre Mim</h2>
 
 <p align="center"> Sou Formado como técnico de informática pelo Instituto Federal do Amazonas e apaixonado por tecnologia.
-  Atualmente estou me especializando em Programação Web com <b>JS, CSS e HTML</b> no bootcamp LaunchBases da rocketseat 🚀</p>
+  Atualmente estou me especializando em Programação Web com <b>HTML, CSS, JS e NODE.js</b> no bootcamp LaunchBases da rocketseat 🚀</p>
 
 <p align="center">Comecei a programar pelo mundo <b>Java</b> Desktop, na qual desenvolvi alguns programas com a lingugem no Back-end e Front-end.Daí então comecei a minha caminhada pelo maravilhoso mundo da <b>programação web</b> e suas infinitas Oportunidades.</p>
 
