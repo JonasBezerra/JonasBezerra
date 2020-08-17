@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center" > Jonas Bezerra da Silva <br>Sobre Mim</h1>
+<h1 align="center" > Jonas Bezerra da Silva <br>🤴🏼</h1>
 
 <br>
 <p align="center"> <b>Desenvolvedor Web<b/></p>
@@ -23,7 +23,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/JonasBezerra/JonasBezerra"><img src="https://img.shields.io/static/v1?label=CSS3&message=ESTILOS&color=rgb(21,114,182)&style=solid&logo=CSS3" width="110px"></a>
   <a href="https://github.com/JonasBezerra/JonasBezerra"><img src="https://img.shields.io/static/v1?label=JS&message=INTERACAO&color=rgb(247,223,30)&style=solid&logo=JavaScript" width="105px"></a>
   <a href="https://github.com/JonasBezerra/JonasBezerra"><img src="https://img.shields.io/static/v1?label=NODE&message=SERVIDOR&color=rgb(56,145,56)&style=solid&logo=NODE.JS" width="118px"></a></p>
-
+  
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p align="center"> Sou Formado como técnico de informática pelo Instituto Federal do Amazonas e apaixonado por tecnologia.
   Atualmente estou me especializando em Programação Web com <b>JS, CSS e HTML</b> no bootcamp LaunchBases da rocketseat 🚀</p>
 
