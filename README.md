@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> Jonas Bezerra da Silva</h1>
-<h2 align="center"> <a href="https://instagram.com/jonasbezerradasilva99"><img src="https://img.shields.io/static/v1?label=instagram&message=follow-me&color=rgb(228,64,95)&style=solid&logo=Instagram" width="160px"></img></a></h2>
+
+<h2 align="center"> <a href="https://instagram.com/jonasbezerradasilva99"><img src="https://img.shields.io/static/v1?label=instagram&message=follow-me&color=rgb(228,64,95)&style=solid&logo=Instagram" width="160px"></img></a></img></a> <a href="https://instagram.com/jonasbezerradasilva99"><img src="https://img.shields.io/static/v1?label=instagram&message=follow-me&color=rgb(228,64,95)&style=solid&logo=Minutemailer" width="160px"></h2>
