@@ -41,4 +41,4 @@ Here are some ideas to get you started:
   </img></a> <a href="mailto:jonas.official2019@gmail.com"><img src="https://img.shields.io/static/v1?label=email&message=jonas.official2019@gmail.com&color=rgb(58,191,230)&style=solid&logo=Minutemailer" width="250px"></p>
   
 
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/67350258/90533964-2e10c500-e147-11ea-928f-68b4651cde0b.png"> </img> </p>
+<p align="center"><img width="380px" align="center" src="https://user-images.githubusercontent.com/67350258/90533964-2e10c500-e147-11ea-928f-68b4651cde0b.png"> </img> </p>
